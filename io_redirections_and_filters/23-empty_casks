@@ -1,5 +1,2 @@
 !#/bin/bash
 find . -empty -printf "%f\n"
-
-#%f -> format spectifier; file name#
-#for each empty file found, only name printed and newline#
